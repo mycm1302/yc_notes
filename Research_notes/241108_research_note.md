@@ -404,6 +404,19 @@
   - 이론적 배경부터 실제 산업현장의 사례연구까지 포함
   - 손상 진단/예측 방법론도 상세히 설명
 
+# 241112 추가로 이용가능한 AI 조사
+- https://consensus.app - 학술 논문조사 및 요약
+- https://www.perplexity.ai/
+- Elicit.org
+  
+- 초기 탐색: Perplexity, Semantic Scholar
+- 심화 분석: Elicit, Consensus
+- 관계 파악: Connected Papers, Iris.ai
+- 추적/관리: Research Rabbit, Litmaps
+- 요약/정리: Scholarcy
+
+
+
 <!--
 <img src="./example.png" width="300" height="200" alt="이미지 설명">
 <img src="./example.png" alt="이미지 설명">
