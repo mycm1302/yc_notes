@@ -605,6 +605,26 @@
 - 성능 지표 계산
 - 오차 분석
 
+# 241113 아라미드 로프 내용 정리
+아라미드 판매측에 로프에 대해 정리된 내용 발견 [^Aramid]
+
+# 241113 다이나믹스에서 한계점 조사
+https://consensus.app/results/?q=로봇의 동역학 해석 연구&lang=ko
+
+Three-Dimensional Dynamic Modeling and Motion Analysis of a Fin-Actuated Robot [^dyn1]
+> In summary, most studies of fin-actuated underwater robots have two limitations: 
+> 1) mainly focusing on investigating 2-D motions in a horizontal plane or vertical plane, without sufficient consideration in 3-D motions, such as surfacing and spiral motions. 
+> 2) Though there are a few works that have considered dynamic modeling in 3-D space [26],[27], [32]–[34], the proposed models are typically validated by limited experiments, without validation in large-scale parameter space.
+
+> In the future work, we will input the ALLS-evaluated motion parameters into a dynamic model-based controller as references of current states of robotic fish [41], for adjusting the oscillation parameters of the robotic fish, and finally realizing flow-aided closed-loop control of its trajectory. 
+
+A dynamical system approach to task-adaptation in physical human–robot interaction [^dyn2] (127 cited)
+
+Data-Driven Dynamic Modeling for a Swimming Robotic Fish[^dyn3] (50 cited)
+
+An overview of dynamic parameter identification of robots[^dyn4]
+
+A modular approach for dynamic modeling of multisegment continuum robots[^dyn5]
 
 <!--
 <img src="./example.png" width="300" height="200" alt="이미지 설명">
@@ -622,3 +642,20 @@
 [^X57]: https://www.nasa.gov/nasa-missions/x-57-aircraft/
 [^ARGOS]: https://ntrs.nasa.gov/citations/20120000452
 [^AtlasCentaur]: https://en.wikipedia.org/wiki/Atlas-Centaur
+[^Aramid]: http://www.11st.co.kr/products/6183466705/share
+[^dyn1]: Zheng, Xingwen, et al. "Three-dimensional dynamic modeling and motion analysis of a fin-actuated robot." IEEE/ASME Transactions on Mechatronics 27.4 (2022): 1990-1997.
+[^dyn2]: Khoramshahi, Mahdi, and Aude Billard. "A dynamical system approach to task-adaptation in physical human–robot interaction." Autonomous Robots 43 (2019): 927-946.
+[^dyn3]: Yu, J., Yuan, J., Wu, Z., & Tan, M. (2016). Data-Driven Dynamic Modeling for a Swimming Robotic Fish. IEEE Transactions on Industrial Electronics, 63, 5632-5640. https://doi.org/10.1109/TIE.2016.2564338.
+[^dyn4]: An overview of dynamic parameter identification of robots
+[^dyn5]: A modular approach for dynamic modeling of multisegment continuum robots
+[^dyn6]: An Iterative Approach for Accurate Dynamic Model Identification of Industrial Robots
+[^dyn7]: Dynamic Modeling of Tendon-Driven Co-Manipulative Continuum Robots
+[^dyn8]: Dynamic Analysis Tool for Legged Robots
+[^dyn9]: Xu, W., Peng, J., Liang, B., & Mu, Z. (2016). Hybrid modeling and analysis method for dynamic coupling of space robots. IEEE Transactions on Aerospace and Electronic Systems, 52, 85-98. https://doi.org/10.1109/TAES.2015.140752. 106 cited.
+[^dyn10]: Shah, S., Saha, S., & Dutt, J. (2012). Modular framework for dynamic modeling and analyses of legged robots. Mechanism and Machine Theory, 49, 234-255. https://doi.org/10.1016/J.MECHMACHTHEORY.2011.10.006. 41 cited.
+
+
+[^dyn11]: Yuan, H., Courteille, E., & Deblaise, D. (2015). Static and dynamic stiffness analyses of cable-driven parallel robots with non-negligible cable mass and elasticity. Mechanism and Machine Theory, 85, 64-81. https://doi.org/10.1016/J.MECHMACHTHEORY.2014.10.010. 97 cited.
+
+[^dyn12]: Azad, M., Babič, J., & Mistry, M. (2019). Effects of the weighting matrix on dynamic manipulability of robots. Autonomous Robots, 43, 1867 - 1879. https://doi.org/10.1007/s10514-018-09819-y. 18 cited.
+

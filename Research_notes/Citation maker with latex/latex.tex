@@ -1,0 +1,36 @@
+\documentclass[12pt,a4paper]{article}
+
+% 한글 지원
+\usepackage[utf8]{inputenc}
+\usepackage{kotex}
+
+% 기본 패키지
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage[numbers]{natbib}  % 참고문헌 관리
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue]{hyperref}  % 인용 링크 색상
+\usepackage{verbatim} % 여러줄 주석용
+
+% 여백 설정
+\geometry{
+    top=25mm,
+    bottom=25mm,
+    left=25mm,
+    right=25mm
+}
+
+% 문서 정보
+\title{생성된 레퍼런스}
+\author{저자 이름}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+% ================================== 참고문헌 ==================================
+\bibliographystyle{unsrtnat}  % 인용 순서대로 정렬
+\bibliography{references}      % references.bib 파일 사용
+
+\end{document}
