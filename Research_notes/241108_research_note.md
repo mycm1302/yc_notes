@@ -626,6 +626,10 @@ An overview of dynamic parameter identification of robots[^dyn4]
 
 A modular approach for dynamic modeling of multisegment continuum robots[^dyn5]
 
+Dynamic analysis of high precision construction cable-driven parallel robots [^dyn13]
+CDPR에서 케이블 해석
+
+
 <!--
 <img src="./example.png" width="300" height="200" alt="이미지 설명">
 <img src="./example.png" alt="이미지 설명">
@@ -659,3 +663,4 @@ A modular approach for dynamic modeling of multisegment continuum robots[^dyn5]
 
 [^dyn12]: Azad, M., Babič, J., & Mistry, M. (2019). Effects of the weighting matrix on dynamic manipulability of robots. Autonomous Robots, 43, 1867 - 1879. https://doi.org/10.1007/s10514-018-09819-y. 18 cited.
 
+[^dyn13]: Ferravante, V., Riva, E., Taghavi, M., Braghin, F., & Bock, T. (2019). Dynamic analysis of high precision construction cable-driven parallel robots. Mechanism and Machine Theory. https://doi.org/10.1016/J.MECHMACHTHEORY.2019.01.023. 25 cited.
