@@ -1,4 +1,5 @@
 # 241108 기존 로봇 조사
+<details>
 - 고스트 로보틱스 vision60
   - 카탈로그 분석 - 방수 방진 인증말고는 의외로 인증 요소는 업었음.
 - Warehouse robot [^case1]
@@ -204,12 +205,17 @@
     - 시스템 설명서
     - 부품 카탈로그
 
+</details>
+
 # 241108 안전공학 관련 정리
+<details>
 - ​RAMS 분석
   - 신뢰도(Reliability), 가용도(Availability), 정비도(Maintainability), 안전도(Safety)
   - 
+</details>
 
 # 241108 건축물 표면 정리
+<details>
 - 결국 건축물 외벽도 사용품 공사하는 만큼 주요 리스트업 후 카탈로그 참조하는것이 좋을것.
 - LX 하우시스[^LX]
 - MECE 전략[^MECE]
@@ -236,8 +242,10 @@
   - https://github.com/sumodirjo/engineering-blogs
   - https://github.com/androiddevnotes/awesome-google-engineering-blogs
   - https://github.com/exajobs/engineering-blogs-collection
-- 
+</details>
+
 # 241108 로봇 물리적 특성 정리
+<details>
 - 버클링
 - 응력집중
 - 충격
@@ -247,8 +255,10 @@
 - 경마모 영역 (응착 마모), 400N보다 클 경우 가혹마모(severe wear) 영역 (박리 마모)
 - 프레팅
 - 윤활공학
+</details>
 
 # 241108 건물 외벽 정리
+<details>
 ## 주요 건축 요소
 - 강화 콘크리트 (철근콘크리트)
   - 고강도 콘크리트와 철근의 조합으로 뛰어난 내구성 제공
@@ -257,8 +267,10 @@
   - 높은 인장강도와 유연성
   - 철골조 또는 철골철근콘크리트조(SRC)에 사용
   - 가벼우면서도 강한 구조 가능
+</details>
 
 ## 외벽 시스템
+<details>
 - 커튼월 (Curtain Wall)
   - 알루미늄 프레임에 유리를 끼운 구조
   - 건물 하중을 지지하지 않는 비내력벽
@@ -303,8 +315,10 @@
 - 내풍압성
 - 차음성능
 - 내화성능
+</details>
 
 # 241108 콘크리트 파손 관련 정리
+<details>
 ## 콘크리트 파손 종류
 - 콘크리트가 떨어져 나오는 현상을 '박리' 또는 '박락'이라고 합니다.
   - 박리(剝離): 콘크리트 표면이 벗겨지거나 떨어져 나가는 현상
@@ -403,8 +417,10 @@
   - 약 2,000페이지 분량
   - 이론적 배경부터 실제 산업현장의 사례연구까지 포함
   - 손상 진단/예측 방법론도 상세히 설명
+</details>
 
 # 241112 추가로 이용가능한 AI 조사
+<details>
 - https://consensus.app - 학술 논문조사 및 요약
 - https://www.perplexity.ai/
 - Elicit.org
@@ -414,9 +430,10 @@
 - 관계 파악: Connected Papers, Iris.ai
 - 추적/관리: Research Rabbit, Litmaps
 - 요약/정리: Scholarcy
+</details>
 
 # 241113 연구, 개발의 정리
-
+<details>
 - 개발: 없는걸 새로 만들어보자
   - 새로운 가치창출
   - 가치 창출이 목적
@@ -479,8 +496,11 @@
     - 안정성 확보
     - 문서화
     - 유지보수 계획
+</details>
 
 # 241113 로봇 연구 실험 방법론 정리
+<details>
+
 ## 1. 비교 실험 (Comparative Study)
 ### 적용 분야
 - 제어 알고리즘 성능 비교
@@ -604,11 +624,16 @@
 - 시각화 도구
 - 성능 지표 계산
 - 오차 분석
+</details>
 
 # 241113 아라미드 로프 내용 정리
+<details>
 아라미드 판매측에 로프에 대해 정리된 내용 발견 [^Aramid]
+</details>
 
 # 241113 다이나믹스에서 한계점 조사
+
+<details>
 https://consensus.app/results/?q=로봇의 동역학 해석 연구&lang=ko
 
 Three-Dimensional Dynamic Modeling and Motion Analysis of a Fin-Actuated Robot [^dyn1]
@@ -628,7 +653,39 @@ A modular approach for dynamic modeling of multisegment continuum robots[^dyn5]
 
 Dynamic analysis of high precision construction cable-driven parallel robots [^dyn13]
 CDPR에서 케이블 해석
+</details>
 
+# 241119 전체 일정 재정립
+<details>
+
+## 연구 논문
+- 메커니즘 제시 논문 (AutoCon)
+- Dynamics 논문
+- Trajectory 논문
+- Control 논문
+
+## 개발 작업
+- Dynamics node debug
+- 파트별 모델링
+- QP solver 구현
+- Gazebo 구현
+- Localization node
+  - Visual odometry
+  - Robot_localization
+- State estimation node
+- WBC Control node
+- Trajectory make node
+
+## 차후 준비
+- Arxiv 업로드
+- Github CV, 기술 문서 정리
+- Github project 공개
+- 이력서, 자소서
+
+## 기타
+- 컨택트 모델
+
+</details>
 
 <!--
 <img src="./example.png" width="300" height="200" alt="이미지 설명">
