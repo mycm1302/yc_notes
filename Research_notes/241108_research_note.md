@@ -687,6 +687,13 @@ CDPR에서 케이블 해석
 
 </details>
 
+# 241119 한국기계연구원 세미나
+## 정애누나 세미나
+Exoskeletone, 외골격 로봇
+Hard/ soft werable type
+
+
+
 <!--
 <img src="./example.png" width="300" height="200" alt="이미지 설명">
 <img src="./example.png" alt="이미지 설명">
