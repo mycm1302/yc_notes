@@ -421,6 +421,7 @@
 
 # 241112 추가로 이용가능한 AI 조사
 <details>
+
 - https://consensus.app - 학술 논문조사 및 요약
 - https://www.perplexity.ai/
 - Elicit.org
@@ -667,6 +668,7 @@ CDPR에서 케이블 해석
 ## 개발 작업
 - Dynamics node debug
 - 파트별 모델링
+  - 로프
 - QP solver 구현
 - Gazebo 구현
 - Localization node
@@ -680,7 +682,7 @@ CDPR에서 케이블 해석
 - Arxiv 업로드
 - Github CV, 기술 문서 정리
 - Github project 공개
-- 이력서, 자소서
+- 이력서, 자소
 
 ## 기타
 - 컨택트 모델
@@ -688,10 +690,13 @@ CDPR에서 케이블 해석
 </details>
 
 # 241119 한국기계연구원 세미나
+<details>
+
 ## 정애누나 세미나
 Exoskeletone, 외골격 로봇
 Hard/ soft werable type
 
+</details>
 
 
 <!--
