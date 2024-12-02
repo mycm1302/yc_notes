@@ -1061,6 +1061,13 @@ https://github.com/jmz3/Gazebo_cable
 </details>
 
 
+# 241203 열화상 카메라 메모
+
+<details>
+[관부가세포함] Teledyne Flir Blackfly S USB3 6.3MP Black & White Camera (C-Mount) BFS-U3-63S4M-C
+https://usashop.co.kr/goods/goods_view.php?goodsNo=1000241640
+https://github.com/ros-drivers/flir_camera_driver/blob/humble-release/spinnaker_camera_driver/doc/index.rst
+</details>
 
 ---
 # 241130 여기서부터 템플릿
