@@ -1069,8 +1069,34 @@ https://usashop.co.kr/goods/goods_view.php?goodsNo=1000241640
 https://github.com/ros-drivers/flir_camera_driver/blob/humble-release/spinnaker_camera_driver/doc/index.rst
 </details>
 
+
+# 241204 Dynamic anlaysis
+
+<details>
+
+## 에너지 효율
+
+
+## 안정성
+
+
+## 강건성
+
+
+## 토크 분배
+조인트, 어센더 모터, 앵커 포인트 텐션
+
+## 서포트 폴리곤
+일반 로봇과 달리 로프 고정점, 다리 컨택 포인트를 통합해서 서포트 폴리곤이 구성됨.
+이게 서포트 폴리곤이 어디로 구성되나, 기준것과는 어떻게 다른지에 대한 증명 고찰 필요.
+
+
+
+
+</details>
+
 ---
-# 241130 여기서부터 템플릿
+# 24120 템플릿
 
 <details>
 </details>
