@@ -1095,6 +1095,51 @@ https://github.com/ros-drivers/flir_camera_driver/blob/humble-release/spinnaker_
 
 </details>
 
+
+# 241203 장애물 돌파 전략
+
+<details>
+https://youtu.be/PjWvf90l4cg?si=BjXRQNFPB0bcx5mO
+</details>
+
+
+# 241205 전체 일정 재정립
+<details>
+
+## 연구 논문
+- 매커니즘 제시 및 기구 해석 논문 (AutoCon)
+- Dynamics 논문
+- Trajectory 논문
+- Control 논문
+
+## 개발 작업
+- Dynamics node debug
+- 파트별 모델링
+  - 로프
+- QP solver 구현
+- Gazebo 구현
+- Localization node
+  - Visual odometry
+    - ZED2 localization
+  - Robot_localization
+- State estimation node
+- WBC Control node
+- Trajectory make node
+- 환경 분석 - GCD 및 건축재
+- System rate upgrade
+
+## 차후 준비
+- Arxiv 업로드
+- Github CV, 기술 문서 정리
+- Github project 공개
+- 이력서, 자소서
+
+## 기타
+- 컨택트 모델
+
+</details>
+
+
 ---
 # 24120 템플릿
 
