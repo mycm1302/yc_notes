@@ -1,0 +1,463 @@
+{
+  "main": {
+    "id": "389042f73b7e35c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cea9b5ff95732e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc62b4a689be7bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/4족로봇 프로젝트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4족로봇 프로젝트"
+            }
+          },
+          {
+            "id": "9b3cefbd2de0eb32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/4족로봇 프로젝트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4족로봇 프로젝트"
+            }
+          },
+          {
+            "id": "11911ce703b7e64e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/4족로봇 프로젝트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4족로봇 프로젝트"
+            }
+          },
+          {
+            "id": "5f4dc78d1a580037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/TO 논문.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TO 논문"
+            }
+          },
+          {
+            "id": "4f2083c841c203bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/의수 로봇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "의수 로봇"
+            }
+          },
+          {
+            "id": "e2bde5f857ca56f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/웨어러블 로봇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "웨어러블 로봇"
+            }
+          },
+          {
+            "id": "77da4e35dcd9775b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "715eecf22459c4da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/4족로봇 프로젝트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4족로봇 프로젝트"
+            }
+          },
+          {
+            "id": "e1de7869dd36136a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "계획"
+            }
+          },
+          {
+            "id": "bf0f86fc056e8d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/연구일지.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "연구일지"
+            }
+          },
+          {
+            "id": "0aee568a61c8ae3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/TO 논문.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TO 논문"
+            }
+          },
+          {
+            "id": "186564071ec23c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/AutoCon 논문.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AutoCon 논문"
+            }
+          },
+          {
+            "id": "17e39049fa18275d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CV"
+            }
+          },
+          {
+            "id": "ada1b9c1868df3d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "65ba191bb3feaa01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
+            }
+          },
+          {
+            "id": "04372c2a2348fd39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Area/건강.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "건강"
+            }
+          },
+          {
+            "id": "2fd72ddbd6c9918a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Area/경제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "경제"
+            }
+          },
+          {
+            "id": "f5f06356ddb67826",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "81ebeaf1ffa64729",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "052fff9fbad36313",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "788cdbe21e68bf0c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8725bb069a945762",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd6bea887cd7bc05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afe851b2fb78bb6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "d0701ad84af644e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "878e681e7eb0ab03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce162ad77995d4da",
+    "type": "split",
+    "children": [
+      {
+        "id": "3458e6e14b7e39b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aab435da84f94d92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Inbox의 백링크"
+            }
+          },
+          {
+            "id": "092c685184038d01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "b40188d692e7e023",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad033bff6fdbfd9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "afe851b2fb78bb6c",
+  "lastOpenFiles": [
+    "1.Project/무제 폴더",
+    "Templates/test.md",
+    "Templates/example.png",
+    "Templates/241108_study_note.md",
+    "Templates/241108_pseudo_ieee_template.md",
+    "Templates",
+    "Notes/241109_Rope.md",
+    "Notes/241108_VSCode_설정_가이드.md",
+    "Notes/241108_VSCode_설정_latex.md",
+    "Notes/241108_VSCode_설정_git.md",
+    "Notes/241108_nasa-robotics-projects.md",
+    "Notes/241108_latex-setup-guide.md",
+    "Notes/241108_3d-print-material-guide.md",
+    "Notes",
+    "README.md",
+    "Inbox.md",
+    "CV.md",
+    "1.Project/AutoCon 논문.md",
+    "1.Project/논문 작성.md",
+    "1.Project/Control 논문.md",
+    "1.Project/Dynamics 논문.md",
+    "템플릿 - md 논문 구성.md",
+    "1.Project/TO 논문.md",
+    "1.Project/계획.md",
+    "1.Project/4족로봇 프로젝트.md",
+    "무제 파일.canvas",
+    "3.Resource/Reference note.md",
+    "1.Project/연구일지.md",
+    "1.Project/개인 프로젝트.md",
+    "무제 파일 2.canvas",
+    "4.Archive/250103 졸업 일정 정리.png",
+    "1.Project/학사 일정.md",
+    "무제 파일 1.canvas",
+    "0.Inbox",
+    "3.Resource",
+    "2.Area",
+    "4.Archive",
+    "1.Project"
+  ]
+}
