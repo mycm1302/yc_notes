@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3aa936d3dd0d5dc8",
+        "id": "083939ae71b4ebca",
         "type": "tabs",
         "children": [
           {
-            "id": "670e47bef854520c",
+            "id": "a04c47d8c82ed07b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Project/연구일지.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "연구일지"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -164,17 +160,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "670e47bef854520c",
+  "active": "a04c47d8c82ed07b",
   "lastOpenFiles": [
+    "0.Inbox/0.Inbox.md",
+    "1.Project/연구일지.md",
     "1.Project/4족 프로젝트/논문/AutoCon 논문.md",
     "1.Project/4족 프로젝트/계획.md",
     "1.Project/4족 프로젝트/4족로봇 프로젝트.md",
@@ -183,9 +181,7 @@
     "1.Project/4족 프로젝트/논문 작성.md",
     "1.Project/4족 프로젝트/학사 일정.md",
     "1.Project/4족 프로젝트/논문",
-    "0.Inbox/0.Inbox.md",
     "무제 파일 1.canvas",
-    "1.Project/연구일지.md",
     "Templates/Templates.md",
     "README.md",
     "4.Archive/4.Archive.md",
