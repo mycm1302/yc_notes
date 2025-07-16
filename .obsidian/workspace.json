@@ -11,10 +11,14 @@
             "id": "a04c47d8c82ed07b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "템플릿 - md 논문 구성.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "템플릿 - md 논문 구성"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -73,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce162ad77995d4da",
@@ -171,6 +175,13 @@
   },
   "active": "a04c47d8c82ed07b",
   "lastOpenFiles": [
+    "석사논문 - Torque distribution based on real-time weighting matrix optimization between AUV and underwater manipulator.pdf",
+    "박사논문 - Quadruped Wheel-Leg Robot System.pdf",
+    "무제 파일 2.canvas",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "무제.canvas",
+    "2025-07-16.md",
     "0.Inbox/0.Inbox.md",
     "1.Project/연구일지.md",
     "1.Project/4족 프로젝트/논문/AutoCon 논문.md",
@@ -181,7 +192,6 @@
     "1.Project/4족 프로젝트/논문 작성.md",
     "1.Project/4족 프로젝트/학사 일정.md",
     "1.Project/4족 프로젝트/논문",
-    "무제 파일 1.canvas",
     "Templates/Templates.md",
     "README.md",
     "4.Archive/4.Archive.md",
@@ -201,16 +211,11 @@
     "1.Project/4족 프로젝트",
     "1.Project/무제 폴더",
     "Templates/example.png",
-    "Templates/241108_study_note.md",
-    "Templates/241108_pseudo_ieee_template.md",
     "Templates",
     "4.Archive/Notes",
-    "무제 파일.canvas",
-    "무제 파일 2.canvas",
     "4.Archive/250103 졸업 일정 정리.png",
     "0.Inbox",
     "3.Resource",
-    "2.Area",
-    "4.Archive"
+    "2.Area"
   ]
 }
