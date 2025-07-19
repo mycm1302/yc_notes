@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"ddef541ecb25a66a","x":-260,"y":60,"width":250,"height":60,"type":"text","text":""},
-		{"id":"8a19e9f27401fffe","x":180,"y":-200,"width":400,"height":400,"type":"file","file":"1.Project/4족 프로젝트/4족로봇 프로젝트.md"}
-	],
-	"edges":[]
-}
