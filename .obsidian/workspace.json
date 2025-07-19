@@ -11,10 +11,14 @@
             "id": "3072dc80d85e84ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/250717 전체 관리 시스템.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250717 전체 관리 시스템"
             }
           }
         ]
@@ -135,12 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/250717 전체 관리 시스템.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 250717 전체 관리 시스템"
             }
           }
         ],
@@ -166,7 +171,7 @@
     "250717 인간관계.md",
     "Notes/0.Inbox.md",
     "Notes/250717 날짜별 체크리스트.md",
-    "Notes/250717 전체 시스템.md",
+    "Notes/250717 전체 관리 시스템.md",
     "Notes/자기소개서_LIG.md",
     "Untitled.md",
     "250717 곤돌라 사고 기사.md",
