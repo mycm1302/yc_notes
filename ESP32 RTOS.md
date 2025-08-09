@@ -1,0 +1,1 @@
+https://slowbootkernelhacks.blogspot.com/2020/12/esp32-freertos.html
