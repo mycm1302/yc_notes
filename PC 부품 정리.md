@@ -1,0 +1,3 @@
+AMD Ryzen 3 3200G
+
+A520MH ver 6.1

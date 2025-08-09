@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "bca22c442a5c09c7",
+        "id": "7939526015ebf52a",
         "type": "tabs",
         "children": [
           {
-            "id": "3072dc80d85e84ba",
+            "id": "45c12bbc980f9c43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/250717 전체 관리 시스템.md",
+                "file": "Notes/로봇 Cases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250717 전체 관리 시스템"
+              "title": "로봇 Cases"
+            }
+          },
+          {
+            "id": "33efd7f47f50e832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Templates"
+            }
+          },
+          {
+            "id": "9f95aa9e31a39c89",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +69,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -53,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "어머니",
+                "query": "템플릿",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +86,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -74,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/250717 전체 관리 시스템.md",
+                "file": "Templates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 250717 전체 관리 시스템"
+              "title": "Outline of Templates"
             }
           }
         ],
@@ -166,40 +192,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3072dc80d85e84ba",
+  "active": "d0701ad84af644e6",
   "lastOpenFiles": [
+    "Notes/사회 초년생 재테크 책 추천.md",
+    "재무.md",
+    "재무 공부.md",
+    "Templates.md",
+    "Notes/로봇 Cases.md",
     "docker-template-readme.md",
+    "Notes/241108_latex-setup-guide.md",
+    "Untitled 2.md",
+    "Notes/Truss Link (VTT 유사연구).md",
+    "Resource/pdf/석사논문 - Torque distribution based on real-time weighting matrix optimization between AUV and underwater manipulator.pdf",
+    "Notes/폼 클랜징 주의.md",
+    "Notes/사이클 바꾸기 - 16시간 금식.md",
+    "250717 곤돌라 사고 기사.md",
+    "Untitled.md",
+    "Notes/재블린 탱크 킬러 조사.md",
+    "Notes/AlexNet.md",
+    "PC 부품 정리.md",
+    "Notes/미국 비자 인터뷰 질문.md",
+    "Notes/에나봇 - 모바일 홈캠 로봇.md",
+    "2025-07-24.md",
+    "pseudoinverse-document.md",
+    "Notes/노션 베이스 모바일 서치 정리 팁.md",
+    "Notes/250717 전체 관리 시스템.md",
+    "Untitled 1.md",
+    "Untitled 3.md",
     "graph TD.md",
     "eigen-robotics-cheatsheet-md.md",
-    "pseudoinverse-document.md",
-    "241108_study_note.md",
-    "250717 인간관계.md",
-    "Notes/0.Inbox.md",
-    "Notes/250717 날짜별 체크리스트.md",
-    "Notes/250717 전체 관리 시스템.md",
-    "Notes/자기소개서_LIG.md",
-    "Untitled.md",
-    "250717 곤돌라 사고 기사.md",
-    "Notes/250717 어머니.md",
-    "Notes/250717 어머니 좋아하는 것.md",
-    "Notes/가족 관련 메모.md",
-    "Notes/경력기술서.md",
-    "Notes/계획.md",
-    "Notes/글뭉치.md",
-    "Notes/TO 논문.md",
-    "Notes/논문 작성.md",
-    "Notes/241128 암기 노트.md",
-    "Notes/250717 로봇.md",
-    "README.md",
-    "Notes/250717 자주 사용하는 소프트웨어.md",
-    "Notes/연구일지.md",
-    "스터디.md",
     "Notes/무제 파일 2.canvas",
     "Resource/pdf/한국은행 - 알기쉬운 경제이야기.pdf",
     "Resource/Canvas",
     "Resource/pdf/박사논문 - Quadruped Wheel-Leg Robot System.pdf",
     "Resource/pdf/경력기술서.pdf",
-    "Resource/pdf/석사논문 - Torque distribution based on real-time weighting matrix optimization between AUV and underwater manipulator.pdf",
     "Resource/Images/250103 졸업 일정 정리.png",
     "Resource/Images/control_framework2.png",
     "Resource/Images/3dslam.png",
