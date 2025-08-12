@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "97ba2ebfda515d88",
+    "id": "389042f73b7e35c8",
     "type": "split",
     "children": [
       {
-        "id": "9bfd30e0982b8124",
+        "id": "0ed9731e9c796f2e",
         "type": "tabs",
         "children": [
           {
-            "id": "24dfe58e6eb523dd",
+            "id": "225811e3d6e7b97a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Robot/알루미늄.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "알루미늄"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "47c9ea9a9f8af931",
+    "id": "8725bb069a945762",
     "type": "split",
     "children": [
       {
-        "id": "7e1eac124d4f946c",
+        "id": "dd6bea887cd7bc05",
         "type": "tabs",
         "children": [
           {
-            "id": "25a96476e97624ff",
+            "id": "afe851b2fb78bb6c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
-            "id": "360131eb7e0ec720",
+            "id": "d0701ad84af644e6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,16 +56,16 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
-            "id": "01817a20ea3717c6",
+            "id": "878e681e7eb0ab03",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,40 +74,42 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "4ea4ac82003cbdc4",
+    "id": "ce162ad77995d4da",
     "type": "split",
     "children": [
       {
-        "id": "205989d7f7cb5ada",
+        "id": "3458e6e14b7e39b9",
         "type": "tabs",
         "children": [
           {
-            "id": "1382f2f33f344c7d",
+            "id": "aab435da84f94d92",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.Project/연구일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "연구일지의 백링크"
             }
           },
           {
-            "id": "deb22bd32a4c467a",
+            "id": "092c685184038d01",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -112,55 +118,192 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "나가는 링크"
             }
           },
           {
-            "id": "c6d947e47fc58c97",
+            "id": "b40188d692e7e023",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "96c845fdbc05a913",
+            "id": "ad033bff6fdbfd9a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Robot/가속도해석.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "가속도해석 의 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24dfe58e6eb523dd",
-  "lastOpenFiles": []
+  "floating": {
+    "id": "88b37b0fab0f0d9e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "46729f4ad338cfad",
+        "type": "window",
+        "children": [
+          {
+            "id": "497647a8a0a7dc63",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0196851a4a031afe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Robot/가속도해석.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "가속도해석"
+                },
+                "group": "934a5417acc6ba86"
+              }
+            ]
+          },
+          {
+            "id": "22d80607e7a6d9f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fb78c81ae5b9a528",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Robot/가속도해석.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.0000000000000027,
+                      "close": false
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "가속도해석 그래프"
+                },
+                "group": "934a5417acc6ba86"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 282,
+        "y": 40,
+        "width": 1276,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0196851a4a031afe",
+  "lastOpenFiles": [
+    "Robotics/임시 목차.md",
+    "Personal/실버주얼리.md",
+    "Personal/CSV 파일 처리.md",
+    "Personal/250720 논문 빠른작업 위한 체크 리스트.md",
+    "Personal/템플릿 - md 논문 구성.md",
+    "Personal/노션 베이스 모바일 서치 정리 팁.md",
+    "Personal/논문 작성.md",
+    "Personal/글뭉치.md",
+    "Personal/241128 암기 노트.md",
+    "Personal/241108_VSCode_설정_latex.md",
+    "Personal/241108_VSCode_설정_가이드.md",
+    "Personal/241108_latex-setup-guide.md",
+    "Personal/241108_VSCode_설정_git.md",
+    "Personal/경력기술서.md",
+    "Personal/계획.md",
+    "Personal/TO 논문.md",
+    "Personal/Career.md",
+    "Personal/CV.md",
+    "Personal/AutoCon 논문.md",
+    "Personal/Control 논문.md",
+    "Personal/250717 날짜별 체크리스트.md",
+    "Personal/250717 전체 관리 시스템.md",
+    "Personal/250717 어머니 좋아하는 것.md",
+    "Personal/250717 어머니.md",
+    "Personal/사회 초년생 재테크 책 추천.md",
+    "Personal/폼 클랜징 주의.md",
+    "Personal/건강",
+    "Robotics/무제.canvas",
+    "Personal",
+    "Robotics/Resource/Images/포맷변환_007.jpg",
+    "Robotics/Resource/Images/스캔_20171227.jpg",
+    "Robotics/Resource/Images/스캔_20171227 (5).jpg",
+    "Robotics/Resource/Images/포맷변환_006.jpg",
+    "Robotics/Resource/Images/스캔_20171227 (4).jpg",
+    "Robotics/Resource/Images/스캔_20171227 (3).jpg",
+    "Robotics/Resource/Images/스캔_20171223 (2).jpg",
+    "Robotics/Resource/Images/스캔_20171223 (3).jpg",
+    "Robotics/Resource/Images/스캔_20171227 (2).jpg",
+    "Robotics/Resource/Images/SPIED 상장.jpg",
+    "Robotics/Resource/Images/S28BW-417091117010.pdf",
+    "Robotics/Resource/pdf/박사논문 - Quadruped Wheel-Leg Robot System.pdf",
+    "Robotics/Resource/pdf/석사논문 - Torque distribution based on real-time weighting matrix optimization between AUV and underwater manipulator.pdf",
+    "Robotics/Resource/pdf/틸팅하는 추진기를 지닌 수중로봇의 추력벡터 분해와 안티와인드업 기법으로 구성된 제어기의 제.pdf",
+    "Robotics/Resource/pdf/외벽 이동 로봇의 장애물 극복 능력 및 안정성 향상을 위한 허리 조인트의 설계.pdf",
+    "Robotics/Resource/pdf/수중 로봇 매니퓰레이터의 하드웨어 설계.pdf",
+    "Robotics/Resource/pdf/비정형 외벽 장애물 극복을 위한 휠-레그 로봇의 궤적 최적화.pdf",
+    "Robotics/Resource/pdf/비정형 외벽 건물 환경에서 로프 구동 기반 휠레그 등반 로봇의 적응 제어 전략.pdf",
+    "Robotics/Notes/무제 파일 2.canvas",
+    "무제.canvas",
+    "Notes/무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas"
+  ]
 }
