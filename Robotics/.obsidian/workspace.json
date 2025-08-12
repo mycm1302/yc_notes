@@ -13,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Robot/Top/설계.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -40,49 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d80f73c4a23e9a02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c5f6a70054c35c85",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 설계"
             }
           }
         ]
@@ -203,12 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Robot/Top/설계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 설계"
             }
           }
         ],
@@ -245,10 +205,14 @@
                 "id": "3b85006e6e4fbee5",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Robot/Top/설계.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "설계"
                 }
               }
             ]
@@ -266,6 +230,11 @@
   },
   "active": "3b85006e6e4fbee5",
   "lastOpenFiles": [
+    "Robot/기구설계.md",
+    "Robot/Top/설계.md",
+    "Robot/기계스프링.md",
+    "Robot/통계적고려사항.md",
+    "Robot/전자회로설계.md",
     "Robot/동력전달케이스스터디.md",
     "Robot/기하치수및공차.md",
     "Robot/클러치브레이크커플링.md",
@@ -273,14 +242,11 @@
     "Robot/유연기계요소.md",
     "Robot/용접과영구접합.md",
     "Robot/저널베어링.md",
-    "Robot/Top/설계.md",
     "Robot/Top/로봇연구.md",
-    "Robot/기계스프링.md",
     "Robot/기어시스템.md",
     "Robot/구름접촉베어링.md",
     "Robot/축과축부품.md",
     "Robot/재료학.md",
-    "Robot/통계적고려사항.md",
     "Robot/기계공학설계개론.md",
     "임시 목차.md",
     "Robot/기계재료.md",
@@ -290,8 +256,6 @@
     "Robot/동역학.md",
     "Robot/운동방정식.md",
     "Notes/자기소개서_KIMM.md",
-    "Notes/250717 자주 사용하는 소프트웨어.md",
-    "Eigen C++ 라이브러리 체트시트.md",
     "Personal",
     "새 폴더",
     "Robotics",
