@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Robot/Top/설계.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,7 +40,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 설계"
+              "title": "Graph view"
             }
           }
         ]
@@ -56,7 +55,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Robot/Top/설계.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,9 +82,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 설계"
-            },
-            "group": "7406e9383852abf9"
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -206,13 +203,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robot/Top/설계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 설계"
+              "title": "Outline"
             }
           }
         ],
@@ -238,27 +234,22 @@
     "type": "floating",
     "children": [
       {
-        "id": "20a55eae9c1b5e36",
+        "id": "084a7b88dad674b3",
         "type": "window",
         "children": [
           {
-            "id": "015716409f427285",
+            "id": "09680ecfb2809600",
             "type": "tabs",
             "children": [
               {
-                "id": "e1d84a9055756f5c",
+                "id": "3b85006e6e4fbee5",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Robot/Top/설계.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "설계"
-                },
-                "group": "7406e9383852abf9"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
               }
             ]
           }
@@ -268,14 +259,29 @@
         "y": 20,
         "width": 922,
         "height": 1400,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e1d84a9055756f5c",
+  "active": "3b85006e6e4fbee5",
   "lastOpenFiles": [
+    "Robot/동력전달케이스스터디.md",
+    "Robot/기하치수및공차.md",
+    "Robot/클러치브레이크커플링.md",
+    "Robot/나사와체결구.md",
+    "Robot/유연기계요소.md",
+    "Robot/용접과영구접합.md",
+    "Robot/저널베어링.md",
     "Robot/Top/설계.md",
+    "Robot/Top/로봇연구.md",
+    "Robot/기계스프링.md",
+    "Robot/기어시스템.md",
+    "Robot/구름접촉베어링.md",
+    "Robot/축과축부품.md",
+    "Robot/재료학.md",
+    "Robot/통계적고려사항.md",
+    "Robot/기계공학설계개론.md",
     "임시 목차.md",
     "Robot/기계재료.md",
     "Robot/Top/해석.md",
@@ -286,25 +292,10 @@
     "Notes/자기소개서_KIMM.md",
     "Notes/250717 자주 사용하는 소프트웨어.md",
     "Eigen C++ 라이브러리 체트시트.md",
-    "docker-template-readme.md",
-    "Notes/Career.md",
     "Personal",
     "새 폴더",
     "Robotics",
-    "건강/전신건강.md",
-    "건강/커피 섭취법.md",
-    "건강/장건강.md",
-    "건강/수분 섭취 원칙.md",
-    "건강/장내 미생물과 유익균.md",
-    "건강/체온 관리와 면역력.md",
-    "건강/구운 고기와 발암물질.md",
-    "건강/단백질 섭취와 고기 소화.md",
-    "피부.md",
-    "건강/피부.md",
-    "건강/건강관리.md",
     "건강",
-    "커피 섭취법.md",
-    "수분 섭취 원칙.md",
     "scrap",
     "Robot/Top",
     "무제.canvas",
