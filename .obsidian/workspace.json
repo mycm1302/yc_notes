@@ -119,8 +119,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a1865b5bd4db14",
+  "active": "afe851b2fb78bb6c",
   "lastOpenFiles": [
     "Robot/기계재료.md",
     "엔지니어링플라스틱.md",
