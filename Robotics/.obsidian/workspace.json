@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Robot/Top/설계.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,10 +40,21 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 설계"
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9358efe61e403384",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,13 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robot/Top/설계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 설계"
+              "title": "Outline"
             }
           }
         ],
@@ -228,10 +237,15 @@
       }
     ]
   },
-  "active": "3b85006e6e4fbee5",
+  "active": "9358efe61e403384",
   "lastOpenFiles": [
-    "Robot/기구설계.md",
     "Robot/Top/설계.md",
+    "Robot/유한요소해석.md",
+    "Robot/피로 파손.md",
+    "Robot/정적 하중 파손.md",
+    "Robot/처짐과 강성.md",
+    "Robot/하중과 응력 해석.md",
+    "Robot/기구설계.md",
     "Robot/기계스프링.md",
     "Robot/통계적고려사항.md",
     "Robot/전자회로설계.md",
@@ -251,11 +265,6 @@
     "임시 목차.md",
     "Robot/기계재료.md",
     "Robot/Top/해석.md",
-    "Robot/운동해석.md",
-    "Robot/순동역학해석.md",
-    "Robot/동역학.md",
-    "Robot/운동방정식.md",
-    "Notes/자기소개서_KIMM.md",
     "Personal",
     "새 폴더",
     "Robotics",
