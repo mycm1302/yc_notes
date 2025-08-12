@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robot/기계재료.md",
+                "file": "Robot/엔지니어링플라스틱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기계재료"
+              "title": "엔지니어링플라스틱"
             },
             "group": "4a05f10460a31300"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Robot/기계재료.md",
+                "file": "Robot/엔지니어링플라스틱.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 기계재료"
+              "title": "Graph of 엔지니어링플라스틱"
             },
             "group": "4a05f10460a31300"
           }
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robot/기계재료.md",
+                "file": "Robot/엔지니어링플라스틱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 기계재료"
+              "title": "Outline of 엔지니어링플라스틱"
             }
           }
         ],
@@ -214,10 +214,12 @@
   },
   "active": "27a1865b5bd4db14",
   "lastOpenFiles": [
+    "Robot/기계재료.md",
     "엔지니어링플라스틱.md",
     "Robot/엔지니어링플라스틱.md",
+    "Robot/Top/설계.md",
+    "Robot/기계설계.md",
     "Robot/PA.md",
-    "Robot/기계재료.md",
     "Robot/고무재료.md",
     "Robot/구리합금.md",
     "Robot/알루미늄.md",
@@ -232,14 +234,12 @@
     "Robot/구조설계.md",
     "재료물성.md",
     "Robot/탄소섬유복합재.md",
-    "Robot/Top/설계.md",
     "Robot/구조해석.md",
     "Robot/Top/로봇연구.md",
     "Robot/Top/회로.md",
     "Robot/동역학.md",
     "Robot/CAD설계.md",
     "Robot/Top/제어.md",
-    "Robot/실시간제어.md",
     "scrap",
     "새 폴더",
     "Robot/Top",
