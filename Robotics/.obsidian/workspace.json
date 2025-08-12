@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "97ba2ebfda515d88",
+    "id": "389042f73b7e35c8",
     "type": "split",
     "children": [
       {
-        "id": "9bfd30e0982b8124",
+        "id": "9f7181c0e47dd322",
         "type": "tabs",
         "children": [
           {
-            "id": "24dfe58e6eb523dd",
+            "id": "3629eb149afe98d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "47c9ea9a9f8af931",
+    "id": "8725bb069a945762",
     "type": "split",
     "children": [
       {
-        "id": "7e1eac124d4f946c",
+        "id": "dd6bea887cd7bc05",
         "type": "tabs",
         "children": [
           {
-            "id": "25a96476e97624ff",
+            "id": "afe851b2fb78bb6c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,15 +44,15 @@
             }
           },
           {
-            "id": "360131eb7e0ec720",
+            "id": "d0701ad84af644e6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "피부",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "01817a20ea3717c6",
+            "id": "878e681e7eb0ab03",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,40 +70,42 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "4ea4ac82003cbdc4",
+    "id": "ce162ad77995d4da",
     "type": "split",
     "children": [
       {
-        "id": "205989d7f7cb5ada",
+        "id": "3458e6e14b7e39b9",
         "type": "tabs",
         "children": [
           {
-            "id": "1382f2f33f344c7d",
+            "id": "aab435da84f94d92",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.Project/연구일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "연구일지의 백링크"
             }
           },
           {
-            "id": "deb22bd32a4c467a",
+            "id": "092c685184038d01",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -112,26 +114,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "나가는 링크"
             }
           },
           {
-            "id": "c6d947e47fc58c97",
+            "id": "b40188d692e7e023",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "96c845fdbc05a913",
+            "id": "ad033bff6fdbfd9a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -144,12 +144,12 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +158,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24dfe58e6eb523dd",
-  "lastOpenFiles": []
+  "active": "3629eb149afe98d7",
+  "lastOpenFiles": [
+    "docker-template-readme.md",
+    "Notes/Career.md",
+    "Personal",
+    "새 폴더",
+    "Robotics",
+    "건강/전신건강.md",
+    "건강/커피 섭취법.md",
+    "건강/장건강.md",
+    "건강/수분 섭취 원칙.md",
+    "건강/장내 미생물과 유익균.md",
+    "건강/체온 관리와 면역력.md",
+    "건강/구운 고기와 발암물질.md",
+    "건강/단백질 섭취와 고기 소화.md",
+    "피부.md",
+    "건강/피부.md",
+    "건강/건강관리.md",
+    "건강",
+    "커피 섭취법.md",
+    "수분 섭취 원칙.md",
+    "장내 미생물과 유익균.md",
+    "체온 관리와 면역력.md",
+    "구운 고기와 발암물질.md",
+    "단백질 섭취와 고기 소화.md",
+    "Robot/엔지니어링플라스틱.md",
+    "Robot/기계재료.md",
+    "엔지니어링플라스틱.md",
+    "Robot/Top/설계.md",
+    "Robot/기계설계.md",
+    "Robot/PA.md",
+    "Robot/고무재료.md",
+    "scrap",
+    "Robot/Top",
+    "무제.canvas",
+    "Robot",
+    "Resource/pdf/석사논문 - Torque distribution based on real-time weighting matrix optimization between AUV and underwater manipulator.pdf",
+    "Notes/무제 파일 2.canvas",
+    "Resource/pdf/한국은행 - 알기쉬운 경제이야기.pdf",
+    "Resource/Canvas",
+    "Resource/Images/250103 졸업 일정 정리.png",
+    "Resource/Images/control_framework2.png",
+    "Resource/Images/3dslam.png",
+    "Resource/Images/프로토타입.jpg",
+    "Resource/Images/operation.png",
+    "Resource/Images/밧줄 보호 모듈 및 이를 포함하는 밧줄 보호 장치.jpg",
+    "Resource/Images/2017 공학 페스티벌 참가 확인서.jpg",
+    "Templates/example.png",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas"
+  ]
 }
