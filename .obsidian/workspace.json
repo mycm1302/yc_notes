@@ -4,67 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5c668b6b4380deba",
+        "id": "79055bfafe136262",
         "type": "tabs",
         "children": [
           {
-            "id": "27a1865b5bd4db14",
+            "id": "ea16842ca92d78fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robot/엔지니어링플라스틱.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "엔지니어링플라스틱"
-            },
-            "group": "4a05f10460a31300"
-          }
-        ]
-      },
-      {
-        "id": "9c432f47f183c37b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e09e1faedb7550fd",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Robot/엔지니어링플라스틱.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
+              "type": "graph",
+              "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph of 엔지니어링플라스틱"
-            },
-            "group": "4a05f10460a31300"
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -98,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "엔지니어링 플라스틱",
+                "query": "피부",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robot/엔지니어링플라스틱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 엔지니어링플라스틱"
+              "title": "Outline"
             }
           }
         ],
@@ -211,34 +162,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afe851b2fb78bb6c",
+  "active": "ea16842ca92d78fb",
   "lastOpenFiles": [
+    "건강/장건강.md",
+    "건강/전신건강.md",
+    "건강/커피 섭취법.md",
+    "건강/수분 섭취 원칙.md",
+    "건강/장내 미생물과 유익균.md",
+    "건강/체온 관리와 면역력.md",
+    "건강/구운 고기와 발암물질.md",
+    "건강/단백질 섭취와 고기 소화.md",
+    "피부.md",
+    "건강/피부.md",
+    "건강/건강관리.md",
+    "건강",
+    "커피 섭취법.md",
+    "수분 섭취 원칙.md",
+    "장내 미생물과 유익균.md",
+    "체온 관리와 면역력.md",
+    "구운 고기와 발암물질.md",
+    "단백질 섭취와 고기 소화.md",
+    "Robot/엔지니어링플라스틱.md",
     "Robot/기계재료.md",
     "엔지니어링플라스틱.md",
-    "Robot/엔지니어링플라스틱.md",
     "Robot/Top/설계.md",
     "Robot/기계설계.md",
     "Robot/PA.md",
     "Robot/고무재료.md",
     "Robot/구리합금.md",
     "Robot/알루미늄.md",
-    "Robot/A7075.md",
-    "방열설계.md",
-    "Robot/A6061.md",
-    "PC (폴리카보네이트).md",
-    "Robot/PC.md",
-    "Robot/POM.md",
-    "Robot/PEEK.md",
-    "Robot/강재.md",
-    "Robot/구조설계.md",
-    "재료물성.md",
-    "Robot/탄소섬유복합재.md",
-    "Robot/구조해석.md",
-    "Robot/Top/로봇연구.md",
-    "Robot/Top/회로.md",
-    "Robot/동역학.md",
-    "Robot/CAD설계.md",
-    "Robot/Top/제어.md",
     "scrap",
     "새 폴더",
     "Robot/Top",
@@ -255,7 +207,6 @@
     "Resource/Images/3dslam.png",
     "Resource/Images/프로토타입.jpg",
     "Resource/Images/operation.png",
-    "Resource/pdf/[IJ IJPEM 2022] Cooperative vehicle-manipulator underwater manipulation by redundant resolution method.pdf",
     "Resource/Images/밧줄 보호 모듈 및 이를 포함하는 밧줄 보호 장치.jpg",
     "Resource/Images/2017 공학 페스티벌 참가 확인서.jpg",
     "Templates/example.png",
