@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5c668b6b4380deba",
+        "id": "0ed9731e9c796f2e",
         "type": "tabs",
         "children": [
           {
-            "id": "27a1865b5bd4db14",
+            "id": "225811e3d6e7b97a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Robot/알루미늄.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "알루미늄"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -49,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "분야별 로봇",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Robot/가속도해석.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "가속도해석 의 개요"
             }
           }
         ],
@@ -152,43 +158,127 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a1865b5bd4db14",
+  "floating": {
+    "id": "88b37b0fab0f0d9e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "46729f4ad338cfad",
+        "type": "window",
+        "children": [
+          {
+            "id": "497647a8a0a7dc63",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0196851a4a031afe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Robot/가속도해석.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "가속도해석"
+                },
+                "group": "934a5417acc6ba86"
+              }
+            ]
+          },
+          {
+            "id": "22d80607e7a6d9f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fb78c81ae5b9a528",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Robot/가속도해석.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.0000000000000027,
+                      "close": false
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "가속도해석 그래프"
+                },
+                "group": "934a5417acc6ba86"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 282,
+        "y": 40,
+        "width": 1276,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0196851a4a031afe",
   "lastOpenFiles": [
-    "Robot/Top/로봇연구.md",
-    "Robot/Top/회로.md",
-    "Robot/동역학.md",
-    "Robot/Top/설계.md",
-    "Robot/CAD설계.md",
-    "Robot/Top/제어.md",
-    "Robot/실시간제어.md",
-    "Robot/기본제어.md",
-    "Robot/제어시스템.md",
-    "Robot/최적제어.md",
-    "Robot/기구설계.md",
-    "Robot/Top/로봇공학.md",
-    "Robot/이동로봇시스템.md",
-    "조인트.md",
-    "scrap/2025-08-10.md",
-    "Robot/기계설계.md",
-    "241108 3D프린팅재료.md",
-    "Robot/구조해석.md",
-    "Robot/Top/분야별 로봇.md",
-    "scrap/2025-08-06.md",
-    "scrap/2025-08-05.md",
-    "scrap/2025-07-30.md",
-    "scrap/2025-08-01.md",
-    "scrap/2025-07-31.md",
-    "scrap/📚_스크랩_인덱스.md",
-    "scrap/_CHZZK_영상_템플릿.md",
+    "Robot/마찰모델링.md",
+    "Robot/폐루프동역학.md",
+    "Robot/PC.md",
+    "Robot/해밀토니안동역학.md",
+    "Robot/POM.md",
+    "Robot/PEEK.md",
+    "Robot/단일강체동역학.md",
+    "Robot/닫힌형태동역학.md",
+    "Robot/A7075.md",
+    "Robot/구속동역학.md",
+    "Robot/A6061.md",
+    "Robot/동역학방정식성질.md",
+    "Robot/운동해석.md",
+    "Robot/구동계모델링.md",
+    "Robot/작업공간동역학.md",
+    "Robot/ADAMS.md",
+    "Robot/순동역학해석.md",
+    "Robot/역동역학해석.md",
+    "재료물성.md",
+    "Robot/알루미늄.md",
+    "Robot/엔지니어링플라스틱.md",
+    "Robot/탄소섬유복합재.md",
+    "Robot/Top/해석.md",
+    "Robot/강재.md",
+    "Robot/기계재료.md",
+    "Robot/가속도해석.md",
     "scrap",
     "새 폴더",
     "Robot/Top",
