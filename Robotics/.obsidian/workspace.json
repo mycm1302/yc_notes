@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b41a06a67e47dfa",
+        "id": "66e9fc0e82e0b9dc",
         "type": "tabs",
         "children": [
           {
-            "id": "ce66fd84f129999b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "9358efe61e403384",
+            "id": "a476ed630c66fcc2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -53,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "피부",
+                "query": "회로",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Robot/기계재료.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 기계재료"
             }
           }
         ],
@@ -216,13 +181,58 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Robot/Top/설계.md",
+                    "file": "Robot/기계재료.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "설계"
-                }
+                  "title": "기계재료"
+                },
+                "group": "896349d389178b53"
+              }
+            ]
+          },
+          {
+            "id": "572849cf206ff5a9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db70ba6a49033a92",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Robot/기계재료.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.36288736930121157,
+                      "close": false
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of 기계재료"
+                },
+                "group": "896349d389178b53"
               }
             ]
           }
@@ -232,39 +242,39 @@
         "y": 20,
         "width": 922,
         "height": 1400,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "9358efe61e403384",
+  "active": "3b85006e6e4fbee5",
   "lastOpenFiles": [
+    "해석.md",
+    "Robot/PA.md",
+    "Robot/Top/회로.md",
+    "Robot/Top/해석.md",
+    "Robot/구조해석.md",
+    "Robot/기계재료.md",
+    "Robot/티타늄.md",
+    "Robot/Top/로봇연구.md",
+    "Robot/Top/로봇공학.md",
+    "Robot/기구학.md",
+    "Robot/속도기구학.md",
+    "Robot/특이점분석.md",
+    "Robot/구조설계.md",
+    "Robot/Top/분야별 로봇.md",
+    "Robot/자율시스템응용.md",
+    "Robot/NASA 로봇 프로젝트.md",
+    "Robot/로봇구조.md",
+    "Robot/기본개념.md",
     "Robot/Top/설계.md",
+    "Robot/금속복합재.md",
+    "Robot/최적화설계.md",
+    "Robot/기계공학설계개론.md",
     "Robot/유한요소해석.md",
     "Robot/피로 파손.md",
     "Robot/정적 하중 파손.md",
     "Robot/처짐과 강성.md",
-    "Robot/하중과 응력 해석.md",
-    "Robot/기구설계.md",
-    "Robot/기계스프링.md",
-    "Robot/통계적고려사항.md",
-    "Robot/전자회로설계.md",
-    "Robot/동력전달케이스스터디.md",
-    "Robot/기하치수및공차.md",
-    "Robot/클러치브레이크커플링.md",
-    "Robot/나사와체결구.md",
-    "Robot/유연기계요소.md",
-    "Robot/용접과영구접합.md",
-    "Robot/저널베어링.md",
-    "Robot/Top/로봇연구.md",
-    "Robot/기어시스템.md",
-    "Robot/구름접촉베어링.md",
-    "Robot/축과축부품.md",
-    "Robot/재료학.md",
-    "Robot/기계공학설계개론.md",
-    "임시 목차.md",
-    "Robot/기계재료.md",
-    "Robot/Top/해석.md",
     "Personal",
     "새 폴더",
     "Robotics",
