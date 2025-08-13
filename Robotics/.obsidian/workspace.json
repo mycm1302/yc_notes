@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robot/기계재료.md",
+                "file": "Robot/Top/설계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 기계재료"
+              "title": "Outline of 설계"
             }
           }
         ],
@@ -168,43 +167,43 @@
     "type": "floating",
     "children": [
       {
-        "id": "084a7b88dad674b3",
+        "id": "654303a96054829c",
         "type": "window",
         "children": [
           {
-            "id": "09680ecfb2809600",
+            "id": "0e92067fdb0b4d1d",
             "type": "tabs",
             "children": [
               {
-                "id": "3b85006e6e4fbee5",
+                "id": "8af42b6298fb1cf4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Robot/기계재료.md",
+                    "file": "Robot/Top/설계.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "기계재료"
+                  "title": "설계"
                 },
-                "group": "896349d389178b53"
+                "group": "7f064e83fbdb3b21"
               }
             ]
           },
           {
-            "id": "572849cf206ff5a9",
+            "id": "7dd24b31e44432e5",
             "type": "tabs",
             "children": [
               {
-                "id": "db70ba6a49033a92",
+                "id": "d90c41101b3c0897",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Robot/기계재료.md",
+                    "file": "Robot/Top/설계.md",
                     "options": {
-                      "collapse-filter": false,
+                      "collapse-filter": true,
                       "search": "",
                       "localJumps": 1,
                       "localBacklinks": true,
@@ -215,8 +214,8 @@
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
                       "colorGroups": [],
-                      "collapse-display": false,
-                      "showArrow": true,
+                      "collapse-display": true,
+                      "showArrow": false,
                       "textFadeMultiplier": 0,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
@@ -225,56 +224,56 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.36288736930121157,
+                      "scale": 1,
                       "close": false
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 기계재료"
+                  "title": "Graph of 설계"
                 },
-                "group": "896349d389178b53"
+                "group": "7f064e83fbdb3b21"
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 783,
-        "y": 20,
-        "width": 922,
-        "height": 1400,
+        "x": 732,
+        "y": 320,
+        "width": 1024,
+        "height": 800,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "3b85006e6e4fbee5",
+  "active": "8af42b6298fb1cf4",
   "lastOpenFiles": [
-    "해석.md",
-    "Robot/PA.md",
+    "Robot/저널베어링.md",
+    "Robot/Top/설계.md",
+    "Robot/기계재료.md",
+    "Robot/엔지니어링플라스틱.md",
+    "열팽창 (Thermal Expansion).md",
+    "Robot/기계적스위치.md",
+    "Robot/멀티플렉서.md",
+    "Robot/ADC.md",
+    "Robot/재료학.md",
+    "재료.md",
+    "Robot/입출력시스템.md",
+    "Robot/전원시스템.md",
     "Robot/Top/회로.md",
+    "Robot/마이크로컨트롤러.md",
+    "Robot/모터드라이버.md",
+    "Robot/통신인터페이스.md",
+    "Robot/신호조절.md",
+    "Robot/동역학.md",
+    "Robot/센서인터페이스.md",
+    "해석.md",
+    "Robot/작업공간동역학.md",
+    "Robot/휴머노이드시스템.md",
+    "Robot/동력전달케이스스터디.md",
+    "Robot/PA.md",
     "Robot/Top/해석.md",
     "Robot/구조해석.md",
-    "Robot/기계재료.md",
-    "Robot/티타늄.md",
-    "Robot/Top/로봇연구.md",
-    "Robot/Top/로봇공학.md",
-    "Robot/기구학.md",
-    "Robot/속도기구학.md",
-    "Robot/특이점분석.md",
-    "Robot/구조설계.md",
-    "Robot/Top/분야별 로봇.md",
-    "Robot/자율시스템응용.md",
-    "Robot/NASA 로봇 프로젝트.md",
-    "Robot/로봇구조.md",
-    "Robot/기본개념.md",
-    "Robot/Top/설계.md",
-    "Robot/금속복합재.md",
-    "Robot/최적화설계.md",
-    "Robot/기계공학설계개론.md",
-    "Robot/유한요소해석.md",
-    "Robot/피로 파손.md",
-    "Robot/정적 하중 파손.md",
-    "Robot/처짐과 강성.md",
     "Personal",
     "새 폴더",
     "Robotics",
