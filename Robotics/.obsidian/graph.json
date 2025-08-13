@@ -18,11 +18,11 @@
       "query": "path:Robot  ",
       "color": {
         "a": 1,
-        "rgb": 5526240
+        "rgb": 40447
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2726859917360816,
+  "scale": 2.0707092497458697,
   "close": false
 }
