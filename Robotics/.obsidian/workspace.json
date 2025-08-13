@@ -135,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robot/Top/설계.md",
+                "file": "Robot/재료학.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 설계"
+              "title": "Outline of 재료학"
             }
           }
         ],
@@ -180,12 +180,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Robot/Top/설계.md",
+                    "file": "Robot/재료학.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "설계"
+                  "title": "재료학"
                 },
                 "group": "7f064e83fbdb3b21"
               }
@@ -201,7 +201,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Robot/Top/설계.md",
+                    "file": "Robot/재료학.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -229,7 +229,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 설계"
+                  "title": "Graph of 재료학"
                 },
                 "group": "7f064e83fbdb3b21"
               }
@@ -248,15 +248,16 @@
   },
   "active": "8af42b6298fb1cf4",
   "lastOpenFiles": [
-    "Robot/저널베어링.md",
     "Robot/Top/설계.md",
+    "Robot/특수로봇시스템.md",
+    "Robot/재료학.md",
+    "Robot/저널베어링.md",
     "Robot/기계재료.md",
     "Robot/엔지니어링플라스틱.md",
     "열팽창 (Thermal Expansion).md",
     "Robot/기계적스위치.md",
     "Robot/멀티플렉서.md",
     "Robot/ADC.md",
-    "Robot/재료학.md",
     "재료.md",
     "Robot/입출력시스템.md",
     "Robot/전원시스템.md",
@@ -273,7 +274,6 @@
     "Robot/동력전달케이스스터디.md",
     "Robot/PA.md",
     "Robot/Top/해석.md",
-    "Robot/구조해석.md",
     "Personal",
     "새 폴더",
     "Robotics",
