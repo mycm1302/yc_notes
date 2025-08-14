@@ -15,52 +15,7 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "그래프 뷰"
-            },
-            "group": "60e0c64bb8e4f9e3"
-          }
-        ]
-      },
-      {
-        "id": "2cb2e9197c6016bb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2c56c9e7332a5659",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Robot/마찰모델링.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224441,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "마찰모델링 그래프"
-            },
-            "group": "60e0c64bb8e4f9e3"
+            }
           }
         ]
       }
@@ -94,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "적응제어",
+                "query": "상태추정",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -293,6 +248,14 @@
   },
   "active": "4b73b67dcc4a26f5",
   "lastOpenFiles": [
+    "Robot/라이다SLAM.md",
+    "Robot/시각적SLAM.md",
+    "Robot/파티클필터.md",
+    "Robot/상태추정.md",
+    "Robot/SLAM.md",
+    "Robot/확장칼만필터.md",
+    "Robot/칼만필터.md",
+    "베이지안필터.md",
     "Robot/해석역학.md",
     "Robot/마찰모델링.md",
     "Robot/라그랑지역학.md",
@@ -311,14 +274,6 @@
     "Robot/오일러각.md",
     "Robot/회전행렬.md",
     "Robot/모터드라이버.md",
-    "Robot/탄소섬유복합재.md",
-    "특수로봇시스템.md",
-    "Robot/Top/로봇연구.md",
-    "Robot/전자회로설계.md",
-    "Robot/적응견고제어.md",
-    "Robot/고급제어.md",
-    "Robot/Top/제어.md",
-    "적응제어.md",
     "Personal",
     "새 폴더",
     "Robotics",
