@@ -11,11 +11,60 @@
             "id": "4b73b67dcc4a26f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Robot/Top/분야별 로봇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "분야별 로봇"
+            },
+            "group": "60e0c64bb8e4f9e3"
+          }
+        ]
+      },
+      {
+        "id": "2cb2e9197c6016bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c56c9e7332a5659",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Robot/Top/분야별 로봇.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224428,
+                  "close": false
+                }
+              },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+              "title": "분야별 로봇 그래프"
+            },
+            "group": "60e0c64bb8e4f9e3"
           }
         ]
       }
@@ -57,7 +106,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -136,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robot/Top/설계.md",
+                "file": "Robot/Top/분야별 로봇.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 설계"
+              "title": "분야별 로봇 의 개요"
             }
           }
         ],
@@ -154,12 +203,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false
     }
   },
@@ -225,12 +274,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 1.0000000000000007,
                       "close": false
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 설계"
+                  "title": "설계 그래프"
                 },
                 "group": "37ff4ba37f3607ee"
               }
@@ -242,13 +291,18 @@
         "y": 320,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d97414d0336891a9",
+  "active": "4b73b67dcc4a26f5",
   "lastOpenFiles": [
+    "Robot/실시간제어.md",
+    "Robot/Top/설계.md",
+    "Robot/Top/로봇공학.md",
+    "Robot/기초이론.md",
+    "Robot/물리적기초.md",
     "Robot/역기구학.md",
     "Robot/순기구학.md",
     "Robot/사원수.md",
@@ -257,7 +311,6 @@
     "Robot/모터드라이버.md",
     "Robot/탄소섬유복합재.md",
     "특수로봇시스템.md",
-    "Robot/Top/설계.md",
     "Robot/Top/로봇연구.md",
     "Robot/전자회로설계.md",
     "Robot/적응견고제어.md",
@@ -271,10 +324,6 @@
     "Robot/FDM설계가이드.md",
     "Robot/최적화설계.md",
     "Robot/레이저커팅설계.md",
-    "Robot/재료학.md",
-    "Robot/특수로봇시스템.md",
-    "Robot/저널베어링.md",
-    "Robot/기계재료.md",
     "Personal",
     "새 폴더",
     "Robotics",

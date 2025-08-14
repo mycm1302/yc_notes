@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ed9731e9c796f2e",
+        "id": "44cd9e7c12b1bb12",
         "type": "tabs",
         "children": [
           {
-            "id": "225811e3d6e7b97a",
+            "id": "0765230590bc0564",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,7 +161,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "225811e3d6e7b97a",
+  "active": "0765230590bc0564",
   "lastOpenFiles": [
     "Robotics/Robot/제조및가공.md",
     "Robotics/적응제어.md",
