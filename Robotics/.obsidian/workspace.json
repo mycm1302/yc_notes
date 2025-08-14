@@ -11,11 +11,60 @@
             "id": "4b73b67dcc4a26f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Robot/웨어러블 로봇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "웨어러블 로봇"
+            },
+            "group": "34ac4bca6eeb6b80"
+          }
+        ]
+      },
+      {
+        "id": "761b38a7348d82a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a58f0fb35047fe0c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Robot/웨어러블 로봇.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.50876188557926,
+                  "close": false
+                }
+              },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
+              "title": "웨어러블 로봇 그래프"
+            },
+            "group": "34ac4bca6eeb6b80"
           }
         ]
       }
@@ -40,7 +89,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -49,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "상태추정",
+                "query": "전신제어기법",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,8 +119,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,12 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Robot/웨어러블 로봇.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "웨어러블 로봇 의 개요"
             }
           }
         ],
@@ -246,34 +295,34 @@
       }
     ]
   },
-  "active": "4b73b67dcc4a26f5",
+  "active": "afe851b2fb78bb6c",
   "lastOpenFiles": [
+    "Resource/pdf/wearable robots biomechatronic exoskeletons.pdf",
+    "Robot/전신제어기법.md",
+    "Robot/휴머노이드_전신제어기법.md",
+    "Robot/휴머노이드_궤적최적화.md",
+    "Robot/휴머노이드_자코비안.md",
+    "Robot/휴머노이드_역기구학.md",
+    "Robot/휴머노이드_ZMP.md",
+    "Robot/웨어러블 로봇.md",
+    "Robot/궤적최적화.md",
+    "Robot/Top/분야별 로봇.md",
+    "Robot/자코비안.md",
+    "Robot/ZMP.md",
+    "Robot/휴머노이드_연구기술.md",
+    "Robot/휴머노이드.md",
+    "Robot/휴머노이드_최신기술동향_2024-2025.md",
+    "Robot/SLAM.md",
     "Robot/라이다SLAM.md",
+    "Robot/동역학.md",
+    "Robot/제어시스템.md",
     "Robot/시각적SLAM.md",
     "Robot/파티클필터.md",
     "Robot/상태추정.md",
-    "Robot/SLAM.md",
     "Robot/확장칼만필터.md",
     "Robot/칼만필터.md",
     "베이지안필터.md",
     "Robot/해석역학.md",
-    "Robot/마찰모델링.md",
-    "Robot/라그랑지역학.md",
-    "Robot/Top/분야별 로봇.md",
-    "Robot/미분방정식.md",
-    "Robot/선형대수.md",
-    "Robot/뉴턴법칙.md",
-    "Robot/실시간제어.md",
-    "Robot/Top/설계.md",
-    "Robot/Top/로봇공학.md",
-    "Robot/기초이론.md",
-    "Robot/물리적기초.md",
-    "Robot/역기구학.md",
-    "Robot/순기구학.md",
-    "Robot/사원수.md",
-    "Robot/오일러각.md",
-    "Robot/회전행렬.md",
-    "Robot/모터드라이버.md",
     "Personal",
     "새 폴더",
     "Robotics",
