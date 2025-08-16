@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b007e22c89711eab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b73b67dcc4a26f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robot/웨어러블 로봇.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "웨어러블 로봇"
-            },
-            "group": "34ac4bca6eeb6b80"
-          }
-        ]
-      },
-      {
         "id": "761b38a7348d82a1",
         "type": "tabs",
         "children": [
@@ -34,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Robot/웨어러블 로봇.md",
+                "file": "Robot/Top/설계.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,9 +41,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "웨어러블 로봇 그래프"
-            },
-            "group": "34ac4bca6eeb6b80"
+              "title": "Graph of 설계"
+            }
           }
         ]
       }
@@ -89,7 +67,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -184,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robot/웨어러블 로봇.md",
+                "file": "Robot/Top/설계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "웨어러블 로봇 의 개요"
+              "title": "Outline of 설계"
             }
           }
         ],
@@ -202,12 +180,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
@@ -278,7 +256,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "설계 그래프"
+                  "title": "Graph of 설계"
                 },
                 "group": "37ff4ba37f3607ee"
               }
@@ -295,7 +273,7 @@
       }
     ]
   },
-  "active": "afe851b2fb78bb6c",
+  "active": "a58f0fb35047fe0c",
   "lastOpenFiles": [
     "Resource/pdf/wearable robots biomechatronic exoskeletons.pdf",
     "Robot/전신제어기법.md",
