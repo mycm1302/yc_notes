@@ -1,6 +1,6 @@
 # FDM설계가이드
 
-> 상위: [[설계]] → [[제조 및 가공]]
+> 상위: [[제조및가공]]
 > 
 > 레퍼런스: **Formlabs FDM vs. SLA vs. SLS Guide**, **Fictiv 3D Printing Design Guide**
 

@@ -127,6 +127,38 @@ ADAMS (Automatic Dynamic Analysis of Mechanical Systems)는 기계 시스템의 
 - **건설 장비**: 작업 효율성 및 안전성
 - **항공우주**: 전개 메커니즘 및 구동 시스템
 
+## 🎓 추천 학습 자료
+
+### 공식 교육 과정
+**MSC Software 공식 교육**
+- [Adams Academic Learning Center](https://hexagon.com/products/adams-student-edition) - Hexagon/MSC 공식 온라인 코스
+  - ADM701: Complete Multibody Dynamics Analysis (40시간)
+  - ADM711: Control System Integration with MATLAB/Easy5
+  - ADM704A: Advanced Parametrics & Optimization
+  - ADM702: Python Programming for Adams
+
+**대학교 무료 강의**
+- [University of Texas PACE Lab](https://research.utep.edu/pacelab) - 무료 ADAMS 튜토리얼
+- [Adams Tutorial Kit for Mechanical Engineering](https://www.mscsoftware.com/page/adams-tutorial-kit-mechanical-engineering-courses) - 44개 예제 포함
+
+### 온라인 강의 플랫폼
+**Udemy 과정**
+- [MSC Adams For Beginners](https://www.udemy.com/course/msc-adams-for-beginners/) - 초보자용 기초 과정
+- [MSC Multibody Dynamics Course](https://diyguru.org/course/msc-adams-car/) - DIYguru 자동차 특화 과정
+
+**YouTube 채널**
+- TrendingMechVideos - Abaqus Tutorials for Beginners 플레이리스트
+- MSC Software 공식 채널 - 데모 및 웨비나
+
+### 실무 참고서
+- **Norton, R.L.** - "Design of Machinery" (6th Edition) - Adams 예제 포함
+- **Shabana, A.A.** - "Dynamics of Multibody Systems" - 이론적 배경
+
+### 학생용 리소스
+**무료 소프트웨어**
+- [Adams Student Edition](https://hexagon.com/products/adams-student-edition) - 교육용 무료 버전
+- [SIMULIA Learning Community](https://community.simulia.com/) - 튜토리얼 및 예제
+
 ## 📚 참고문헌
 
 [1] MSC Software Corporation. (2023). *MSC ADAMS 2023 User's Guide*. MSC Software Corporation.
