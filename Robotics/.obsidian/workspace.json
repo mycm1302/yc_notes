@@ -19,35 +19,37 @@
               },
               "icon": "lucide-file",
               "title": "회로도구"
-            },
-            "group": "6bda29297432a035"
+            }
           },
           {
             "id": "018f31e355c436f7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Robot/기계요소.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.10"
-            }
+              "icon": "lucide-file",
+              "title": "기계요소"
+            },
+            "group": "988b00c4a60be901"
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "7b62d2b58f389020",
+        "id": "8b36740bca732aba",
         "type": "tabs",
         "children": [
           {
-            "id": "7342ca3e3dd23b02",
+            "id": "c1c24811dbbc730d",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Robot/Top/회로도구.md",
+                "file": "Robot/기계요소.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,14 +72,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.9971881962569517,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "회로도구 그래프"
+              "title": "기계요소 그래프"
             },
-            "group": "6bda29297432a035"
+            "group": "988b00c4a60be901"
           }
         ]
       }
@@ -111,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "기계요소",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,6 +241,17 @@
   },
   "active": "018f31e355c436f7",
   "lastOpenFiles": [
+    "Robot/오실로스코프.md",
+    "Robot/함수발생기 사용법.md",
+    "Robot/자 사용법.md",
+    "Robot/DC전원공급장치 사용법.md",
+    "Robot/그라인딩 휠 사용법.md",
+    "Robot/오실로스코프 사용법.md",
+    "Robot/샌드페이퍼 사용법.md",
+    "Robot/엔드밀 사용법.md",
+    "Robot/멀티미터 사용법.md",
+    "Robot/톱 사용법.md",
+    "Robot/해머 사용법.md",
     "Robot/플라이어 사용법.md",
     "Robot/렌치 사용법.md",
     "Robot/인두기 사용법.md",
@@ -254,17 +267,6 @@
     "Robot/backup_KS표준기계요소.md",
     "Robot/backup_McMaster공압시스템.md",
     "Robot/backup_McMaster베어링.md",
-    "Robot/backup_McMaster체결요소.md",
-    "Robot/마이크로미터 사용법.md",
-    "Robot/기어.md",
-    "Robot/스프링.md",
-    "Robot/베어링.md",
-    "Robot/볼트.md",
-    "Robot/나사.md",
-    "Robot/KS표준기계요소.md",
-    "Robot/McMaster공압시스템.md",
-    "Robot/McMaster베어링.md",
-    "Robot/McMaster체결요소.md",
     "분야별 로봇",
     "Robot_Products_Projects",
     "Robot_Backup_Original",
