@@ -4,70 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8b36740bca732aba",
+        "id": "7eb5ce4e5eaccd13",
         "type": "tabs",
         "children": [
           {
-            "id": "c1c24811dbbc730d",
+            "id": "43982b8c144513c2",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7112698720068162,
-                  "close": false
-                }
+                "file": "Robot/Top/분야별 로봇.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
-          {
-            "id": "d7cea531538bbd1e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "분야별 로봇"
             },
-            "group": "5d6fa1f0d8d4f71d"
+            "group": "95a8330a76d72fe3"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "25d13ee70b41d712",
+        "id": "288052558f30f25b",
         "type": "tabs",
         "children": [
           {
-            "id": "92db1815bd04b57e",
+            "id": "ad274d9043d65750",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Robot/Top/제어.md",
+                "file": "Robot/Top/분야별 로봇.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -90,14 +57,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7132754626224442,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "제어 그래프"
+              "title": "분야별 로봇 그래프"
             },
-            "group": "5d6fa1f0d8d4f71d"
+            "group": "95a8330a76d72fe3"
           }
         ]
       }
@@ -131,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "기계요소",
+                "query": "group",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -152,8 +119,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,10 +223,29 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d7cea531538bbd1e",
+  "active": "ad274d9043d65750",
   "lastOpenFiles": [
-    "Robot/Top/제어.md",
     "Robot/Top/로봇연구.md",
+    "Notes/Mathematics/Group_Theory/Group Theory - IA Cambridge.md",
+    "Notes/Mathematics/Group_Theory/01-Groups-and-Homomorphisms.md",
+    "Notes/Mathematics/Group_Theory/00-Introduction.md",
+    "Notes/Mathematics/Group_Theory/04-Quotient-Groups.md",
+    "Robot/휴머노이드.md",
+    "Notes/Mathematics/Group_Theory/10-Mobius-Group.md",
+    "Notes/Mathematics/Group_Theory/09-Regular-Polyhedra.md",
+    "Notes/Mathematics/Group_Theory/08-Matrix-Groups.md",
+    "Notes/Mathematics/Group_Theory/07-Quaternions.md",
+    "Notes/Mathematics/Group_Theory/06-Symmetric-Groups-II.md",
+    "Notes/Mathematics/Group_Theory/05-Group-Actions.md",
+    "Notes/Mathematics/Group_Theory/03-Lagranges-Theorem.md",
+    "Notes/Mathematics/Group_Theory/02-Symmetric-Group-I.md",
+    "Notes/Mathematics/Group_Theory",
+    "Notes/Mathematics",
+    "Robot/Top/분야별 로봇.md",
+    "Robot/기계설계.md",
+    "Robot/운동해석.md",
+    "Robot/강체동역학.md",
+    "Robot/Top/제어.md",
     "Robot/기계요소.md",
     "Robot/오실로스코프.md",
     "Robot/함수발생기 사용법.md",
@@ -268,23 +253,6 @@
     "Robot/DC전원공급장치 사용법.md",
     "Robot/그라인딩 휠 사용법.md",
     "Robot/오실로스코프 사용법.md",
-    "Robot/샌드페이퍼 사용법.md",
-    "Robot/엔드밀 사용법.md",
-    "Robot/멀티미터 사용법.md",
-    "Robot/톱 사용법.md",
-    "Robot/해머 사용법.md",
-    "Robot/플라이어 사용법.md",
-    "Robot/렌치 사용법.md",
-    "Robot/인두기 사용법.md",
-    "Robot/Top/회로도구.md",
-    "Robot/운동해석.md",
-    "Robot/피드백제어기초.md",
-    "Robot/파일 사용법.md",
-    "Robot/드라이버 사용법.md",
-    "Robot/벨트.md",
-    "Robot/직각자 사용법.md",
-    "Robot/체인.md",
-    "Robot/backup_KS표준기계요소.md",
     "분야별 로봇",
     "Robot_Products_Projects",
     "Robot_Backup_Original",
@@ -293,8 +261,6 @@
     "새 폴더",
     "Robotics",
     "건강",
-    "scrap",
-    "Robot/Top",
     "무제.canvas",
     "Notes/무제 파일 2.canvas",
     "Resource/Images/250103 졸업 일정 정리.png",
